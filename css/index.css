@@ -1,6 +1,6 @@
 @import url('https://fonts.googleapis.com/css?family=Montserrat');
 body {
-	background-color: #111;
+	background-color: #fff;
 }
 
 ::-moz-selection {
@@ -24,10 +24,14 @@ body {
 	letter-spacing: 1px;
 }
 
+h2{
+	color:navy;
+}
+
 h1 {
 	background-image: url(https://media.giphy.com/media/26BROrSHlmyzzHf3i/giphy.gif);
 	background-size: cover;
-	color: rgba(255,10,255,0.5);
+	color: rgba(9,68,168,0.7);
 	-moz-background-clip: text;
 	-webkit-background-clip: text;
 	text-transform: uppercase;
